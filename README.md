@@ -1,7 +1,7 @@
 tuneup
 ======
 
-Helps you tune your instrument to the tuning used in a music file.
+Helps you tune your instrument to the tuning used in a music file. More information can be found [here](http://j6m8.wordpress.com/2014/03/09/its-not-always-440/).
 
 ## Use Case
 - You play an instrument and wish to play along with a pre-recorded sample.
